@@ -1,0 +1,2 @@
+# Redirect with a 302
+/index.html  /              302
